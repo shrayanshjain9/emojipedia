@@ -1,0 +1,9 @@
+.heading {
+    text-align: center;
+    font-size: 2.5rem;
+    color:rgb(214, 50, 83);
+    font-family: 'Rubik', sans-serif;
+    /* border: 1px solid rgb(255, 179, 179);
+    background-color: rgb(253, 166, 166);
+    box-shadow: 10px 10px 5px #eda0a0; */
+}
