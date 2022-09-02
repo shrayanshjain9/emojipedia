@@ -1,0 +1,36 @@
+body {
+  background-color: #FFB3B3;
+}
+
+.container-box {
+  margin: 3% 6%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.box {
+  background-color: #FFE9AE;
+  text-align: center;
+  font-size: 1.3rem;
+  font-family: 'Rubik', sans-serif;
+  margin: 2rem 0.5rem;
+  max-width: 20rem;
+  padding: 2rem;
+  border-radius: 6px;
+  display: inline-block;
+  box-shadow: 0 2px 0 rgb(0 0 0 / 5%), 0 5px 20px rgb(0 0 0 / 10%);
+}
+
+.emoji-icon {
+  font-size: 3rem;
+}
+
+/* .box div {
+  position: relative;
+  box-shadow: 0 2px 0 rgb(0 0 0 / 5%), 0 5px 20px rgb(0 0 0 / 10%);
+} */
+
+.emoji-description {
+  max-width: 40rem;
+}
